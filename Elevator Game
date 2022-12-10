@@ -1,1 +1,28 @@
+#include <iostream>
 
+using namespace std;
+
+
+int main() {
+
+    cout << endl;
+    cout << endl;
+    cout << endl;
+    cout << endl;
+    cout << endl;
+    cout << endl << "                                              " << " ___________________________ ";
+    cout << endl << "                                              " << "|                           |";
+    cout << endl << "                                              " << "|                           |";
+    cout << endl << "                                              " << "|                    ___    |";
+    cout << endl << "                                              " << "|                   | | |   |";
+    cout << endl << "                                              " << "I___________________| | |___I";
+    cout << endl << "                                              " << "|                   |_|_|   |";
+    cout << endl << "                                              " << "|       AC                  |";
+    cout << endl << "                                              " << "|___________________________|";
+    cout << endl;
+    cout << endl;
+    cout << endl;
+    cout << endl;
+
+
+}
